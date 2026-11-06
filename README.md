@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal">
 </p>
 
-Profissional de Tecnologia da Informação com sólida experiência em ambientes corporativos, suporte técnico especializado, infraestrutura, Cloud Computing e participação em projetos de tecnologia[cite: 2]. Acredito que a tecnologia ganha sentido quando une rigor técnico, governança e sensibilidade humana.
+Profissional de Tecnologia da Informação com sólida experiência em ambientes corporativos, suporte técnico especializado, infraestrutura, Cloud Computing e participação em projetos de tecnologia. Acredito que a tecnologia ganha sentido quando une rigor técnico, governança e sensibilidade humana.
 
 🎯 **Atualmente disponível para novas oportunidades profissionais como Analista de TI / Sistemas Júnior ou Assistente de Projetos de TI[cite: 4].**
 
