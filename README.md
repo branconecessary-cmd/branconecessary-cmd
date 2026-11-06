@@ -77,3 +77,12 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=branconecessary-cmd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=branconecessary-cmd&layout=compact&theme=radical"/>
 </p>
+
+---
+
+## 📬 Contato Profissional
+
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/patrick-branco-campos-56a0a297/](https://www.linkedin.com/in/patrick-branco-campos-56a0a297/)
+- 📱 **WhatsApp:** (21) 99993-4152
+- 🌐 **GitHub:** [https://github.com/branconecessary-cmd](https://github.com/branconecessary-cmd)
+- 📍 **Localização:** Rio de Janeiro, RJ
