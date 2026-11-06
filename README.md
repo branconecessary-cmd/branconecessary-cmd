@@ -71,7 +71,11 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
 
 ---
 
-## 📊 Estatísticas de Desenvolvimento
+## 📊 Estatísticas & Atividade
+
+- 📈 **Foco Atual:** Projetos em Cloud Computing (AWS), Infraestrutura, Linux e Arquitetura de Inteligência Artificial Generativa.
+- 🔬 **Repositório Principal:** [Programador de Poemas](https://github.com/branconecessary-cmd/programador-de-poemas.) — Laboratório de engenharia de prompt e acessibilidade cognitiva.
+- 💡 **Compromisso Técnico:** Governança, código limpo, testes rigorosos e supervisão humana direta.
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=branconecessary-cmd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
