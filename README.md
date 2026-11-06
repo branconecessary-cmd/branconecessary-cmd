@@ -6,6 +6,14 @@ Estudioso contínuo, focado em engenharia de sistemas, governança de TI e autom
 
 🎯 **Atualmente disponível para novas oportunidades profissionais como Analista de TI / Suporte / Cloud Júnior.**
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+</p>
+
 ---
 
 ## 💼 Perfil & Trajetória Profissional
