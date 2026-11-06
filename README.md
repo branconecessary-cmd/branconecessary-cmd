@@ -1,29 +1,48 @@
 # Olá, sou o Patrick Branco ☕🚀
 
-Profissional de TI com sólida vivência em suporte corporativo, em transição consciente e consolidação na área de Cloud e Infraestrutura. Acredito que a tecnologia ganha sentido quando une rigor técnico, governança e sensibilidade humana. **Atualmente em busca de novas oportunidades e desafios no mercado de TI como Analista de TI / Suporte / Cloud Júnior.**
+Profissional de TI com sólida base em telecomunicações e infraestrutura, com 8 anos de excelência em suporte corporativo de alto nível na Apple e uma transição consciente e acelerada para Cloud Computing, IA Generativa e Arquitetura de Sistemas.
+
+Estudioso contínuo, focado em engenharia de sistemas, governança de TI e automação.
+
+🎯 **Atualmente disponível para novas oportunidades profissionais como Analista de TI / Suporte / Cloud Júnior.**
 
 ---
 
-## 💼 Perfil Profissional
-- **Posicionamento:** Analista de TI / Sistemas Júnior (foco em Suporte, Cloud e Assistência de Projetos).
-- **Disponibilidade:** Aberto a novas oportunidades profissionais.
-- **Bagagem:**
-  - 8 anos de experiência em Suporte Técnico corporativo na Apple Brasil.
-  - Atuação prática em infraestrutura e transição para Cloud Consulting no estágio na NTT DATA Brasil (Programa TRANSforma).
-  - Formação superior em andamento em Gestão da Tecnologia da Informação pelo Senac EAD.
-- **Segurança e Governança:** Adepto estrito ao princípio do menor privilégio (IAM), automação consciente e validação humana (Human-in-the-Loop).
+## 💼 Perfil & Trajetória Profissional
+
+- **Posicionamento:** Analista de TI / Sistemas Júnior (com foco em Suporte Técnico Avançado, Cloud, Infraestrutura de Redes e Sistemas).
+- **Disponibilidade:** Aberto a propostas para atuação presencial, híbrida ou remota.
+- **Background & Experiência Sólida:**
+  - **Apple Brasil (8 Anos):** Atuação consolidada como Analista de Suporte Técnico Corporativo, lidando com diagnósticos complexos de hardware/software, ecossistemas multiplataforma e atendimento a clientes de alta criticidade.
+  - **NTT DATA Brasil:** Atuação prática em infraestrutura e imersão em Cloud Consulting através do Programa TRANSforma.
+  - **Senac EAD:** Graduação superior em andamento em Gestão da Tecnologia da Informação.
+- **Mentalidade Técnica:** Rigor analítico, adoção estrita do princípio do menor privilégio (IAM), segurança Zero-Trust e automação controlada por validação humana (*Human-in-the-Loop*).
 
 ---
 
-## 🔬 Laboratórios e Projetos em Destaque
-- **[Programador de Poemas](https://github.com/branconecessary-cmd/programador-de-poemas.):** Meu repositório de pesquisa e experimentação prática. Um laboratório autoral onde aplico engenharia de prompt, testes de acessibilidade cognitiva (suporte a TDAH e dislexia) e governança de IA sob supervisão humana direta.
+## 📚 Formação, Especializações & Certificações
+
+- **Cloud Computing & Infraestrutura:**
+  - **AWS re/Start (Escola da Nuvem):** Formação prática intensiva em infraestrutura de nuvem, redes, Linux e fundamentos de arquitetura AWS.
+  - **Especialização em Telecomunicações & Redes:** Histórico de base técnica aprofundada em redes, conectividade e infraestrutura corporativa.
+  - **AWS Certified Solutions Architect (Em Preparação Avançada):** Plano de estudos estruturado com foco na certificação oficial (Voucher corporativo NTT DATA / Exame agendado para Julho/2027).
+- **Inteligência Artificial Generativa & Engenharia de Prompts:**
+  - **OpenAI Certified Practitioner:** Validação prática em fluxos de IA, automação e arquitetura de prompts.
+  - **OpenAI Certified Expert:** Domínio avançado de ecossistemas gerenciais, integração de LLMs e modelagem de prompts de alta complexidade.
+- **Reconhecimentos & Premiações Corporativas:**
+  - **Technology Solutions Specialist (NTT DATA Inc.):** Premiação técnica concedida pelo desenvolvimento de soluções e da plataforma corporativa interna de mentoria.
 
 ---
 
-## 📚 Estudos e Formação Complementar
+## 🛠️ Stack Tecnológica & Competências Práticas
 
-- **Nuvem & Arquitetura AWS:** Plano de estudos dedicado e intensivo (início em Dezembro/2026, pós-conclusão da faculdade) com foco na certificação AWS Certified Solutions Architect (Voucher corporativo NTT DATA e exame agendado para Julho/2027).
-- **Inteligência Artificial Generativa:** Certificações e aplicação prática em OpenAI Practitioner e OpenAI Expert.
-- **Engenharia de Prompt & Governança:** Desenvolvimento de metodologias de Role Prompting, documentação técnica e supervisão humana (Human-in-the-Loop) aplicada a LLMs.
+- **Sistemas & Ambientes Operacionais:** Linux (configuração, administração e customização de distribuições como Ubuntu e Lubuntu em ambientes de hardware dedicado e notebooks), macOS, iOS, Windows.
+- **Nuvem & Redes:** AWS (IAM, EC2, S3, redes e princípios de arquitetura corporativa), infraestrutura de redes e telecom.
+- **Desenvolvimento & Automação:** Visual Studio Code, Git/GitHub, automação de scripts via CLI, integração de APIs e ambientes de terminal personalizados.
+- **Governança & Acessibilidade Aplicada:** Engenharia de Prompt avançada, *Role Prompting*, documentação técnica estruturada e frameworks de acessibilidade cognitiva (desenvolvimento de soluções inclusivas para TDAH e dislexia).
 
-> **Nota de Transparência:** A preparação intensiva para o exame AWS Solutions Architect (com voucher corporativo da NTT DATA) inicia-se em dezembro de 2026, visando a consolidação técnica como Analista de TI Júnior. A conquista oficial da certificação será atualizada após a aprovação na prova em julho de 2027.
+---
+
+## 🔬 Laboratórios e Projetos de Pesquisa Aplicada
+
+- **[Programador de Poemas](https://github.com/branconecessary-cmd/programador-de-poemas.):** Repositório autoral de pesquisa e desenvolvimento prático. Um laboratório vivo onde aplico engenharia de prompt, arquitetura de governança em IA, modelos de segurança Zero-Trust e testes de acessibilidade cognitiva sob rigorosa supervisão humana direta.
