@@ -69,7 +69,7 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
 
 - **[Programador de Poemas](https://github.com/branconecessary-cmd/programador-de-poemas.):** Repositório autoral de pesquisa e desenvolvimento prático. Um laboratório vivo onde aplico engenharia de prompt, arquitetura de governança em IA, modelos de segurança Zero-Trust e testes de acessibilidade cognitiva sob rigorosa supervisão humana direta.
 
----
+
 
 ## 📊 Estatísticas & Atividade
 
@@ -82,7 +82,7 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=branconecessary-cmd&layout=compact&theme=radical"/>
 </p>
 
----
+
 
 ## 📬 Contato Profissional
 
