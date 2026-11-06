@@ -19,49 +19,49 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
 
 ## 💼 Experiência & Trajetória Profissional
 
-- **NTT DATA | Programa de Estágio TRANSforma (Agosto 2024 a Agosto 2026)[cite: 2]:**
-  - Atuação em projetos de tecnologia, com foco inicial em infraestrutura e posterior aproximação com Cloud Consulting[cite: 2].
-  - Apoio ao levantamento de necessidades, organização de informações técnicas e demandas de clientes[cite: 2].
-  - Pesquisa e exploração de tecnologias de inteligência artificial generativa, incluindo Amazon Bedrock, Foundation Models, RAG, Knowledge Bases, Agents e SageMaker[cite: 3].
-- **Apple Brasil | Especialista em Suporte Técnico e Relacionamento (Janeiro 2015 a Outubro 2022)[cite: 3]:**
-  - 8 anos de atuação corporativa prestando suporte especializado para iPhone, Mac, iPad e Apple Watch[cite: 3].
-  - Diagnóstico e resolução complexa de problemas de hardware, software e configuração, lidando com ecossistemas macOS, iOS, iPadOS, Windows e Linux[cite: 3].
-  - Atendimento consultivo focado na experiência do cliente, traduzindo conceitos técnicos para diferentes perfis de usuários[cite: 3].
+- **NTT DATA | Programa de Estágio TRANSforma (Agosto 2024 a Agosto 2026)**
+  - Atuação em projetos de tecnologia, com foco inicial em infraestrutura e posterior aproximação com Cloud Consulting.
+  - Apoio ao levantamento de necessidades, organização de informações técnicas e demandas de clientes.
+  - Pesquisa e exploração de tecnologias de inteligência artificial generativa, incluindo Amazon Bedrock, Foundation Models, RAG, Knowledge Bases, Agents e SageMaker.
+- **Apple Brasil | Especialista em Suporte Técnico e Relacionamento (Janeiro 2015 a Outubro 2022):**
+  - 8 anos de atuação corporativa prestando suporte especializado para iPhone, Mac, iPad e Apple Watch.
+  - Diagnóstico e resolução complexa de problemas de hardware, software e configuração, lidando com ecossistemas macOS, iOS, iPadOS, Windows e Linux.
+  - Atendimento consultivo focado na experiência do cliente, traduzindo conceitos técnicos para diferentes perfis de usuários.
 
 ---
 
 ## 🚀 Projeto de Destaque
 
-- **MentalistApp (NTT DATA):** Projeto de conclusão do Programa de Estágio TRANSforma, apresentado com sucesso a uma banca avaliadora da NTT DATA como trabalho de conclusão do estágio[cite: 3].
+- **MentalistApp (NTT DATA):** Projeto de conclusão do Programa de Estágio TRANSforma, apresentado com sucesso a uma banca avaliadora da NTT DATA como trabalho de conclusão do estágio.
 
 ---
 
 ## 📚 Formação Acadêmica & Certificações
 
 - **Formação Acadêmica:**
-  - **Tecnologia em Gestão da Tecnologia da Informação:** Centro Universitário Senac (Em andamento, conclusão prevista para Dezembro de 2026)[cite: 4].
-  - **Certificação acadêmica em Analista de Sistemas:** Senac (Setembro de 2026)[cite: 4].
+  - **Tecnologia em Gestão da Tecnologia da Informação:** Centro Universitário Senac (Em andamento, conclusão prevista para Dezembro de 2026).
+  - **Certificação acadêmica em Analista de Sistemas:** Senac (Setembro de 2026)
 - **Trilha ChatGPT Expert | OpenAI / PartnerU:**
-  - ChatGPT Expert - Core Knowledge[cite: 4]
-  - ChatGPT Solutions Practitioner[cite: 4]
-  - API Deployment Practitioner[cite: 4]
-  - OpenAI Foundational Knowledge[cite: 4]
-  - ChatGPT Deployment Practitioner[cite: 4]
-  - OpenAI Technical Practitioner[cite: 4]
-  - OpenAI Consultative Solutions Practitioner[cite: 4]
+  - ChatGPT Expert - Core Knowledge
+  - ChatGPT Solutions Practitioner
+  - API Deployment Practitioner
+  - OpenAI Foundational Knowledge
+  - ChatGPT Deployment Practitioner
+  - OpenAI Technical Practitioner
+  - OpenAI Consultative Solutions Practitioner
 - **Cloud Computing, IA & Formações Técnicas:**
-  - **TECH - Technical Pathways (NTT DATA Inc.):** Desenvolvimento e capacitação técnica com carga horária de 60 horas (Jan 2025 - Jan 2026)[cite: 4].
-  - **AWS re/Start Graduate & AWS Agentic AI Essentials:** Formação em infraestrutura de nuvem, redes e IA agêntica[cite: 3, 4].
-  - **Fundamentos Low-Code & NTT DATA GenAI Academy (Yellow Belt):** Imersão em ecossistemas de inovação e nuvem[cite: 4].
+  - **TECH - Technical Pathways (NTT DATA Inc.):** Desenvolvimento e capacitação técnica com carga horária de 60 horas (Jan 2025 - Jan 2026).
+  - **AWS re/Start Graduate & AWS Agentic AI Essentials:** Formação em infraestrutura de nuvem, redes e IA agêntica.
+  - **Fundamentos Low-Code & NTT DATA GenAI Academy (Yellow Belt):** Imersão em ecossistemas de inovação e nuvem.
 
 ---
 
 ## 🛠️ Competências & Competências Técnicas
 
-- **Gestão & Projetos:** Levantamento e organização de demandas, documentação técnica, apoio a projetos de TI e visão consultiva de relacionamento[cite: 4].
-- **Cloud & Infraestrutura:** Amazon Web Services (AWS), Amazon Bedrock, RAG, Knowledge Bases, Agents, SageMaker, infraestrutura de redes e telecom[cite: 3, 4].
-- **Sistemas & Ferramentas:** macOS, Windows, Linux (Ubuntu/Lubuntu), Visual Studio Code, Git/GitHub e ambientes CLI[cite: 3, 4].
-- **Inteligência Artificial:** IA Generativa, ChatGPT, Role Prompting, automações e arquitetura orientada a LLMs[cite: 3, 4].
+- **Gestão & Projetos:** Levantamento e organização de demandas, documentação técnica, apoio a projetos de TI e visão consultiva de relacionamento
+- **Cloud & Infraestrutura:** Amazon Web Services (AWS), Amazon Bedrock, RAG, Knowledge Bases, Agents, SageMaker, infraestrutura de redes e telecom.
+- **Sistemas & Ferramentas:** macOS, Windows, Linux (Ubuntu/Lubuntu), Visual Studio Code, Git/GitHub e ambientes CLI.
+- **Inteligência Artificial:** IA Generativa, ChatGPT, Role Prompting, automações e arquitetura orientada a LLMs
 
 ---
 
