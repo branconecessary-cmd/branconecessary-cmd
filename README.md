@@ -22,9 +22,10 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
   * Pesquisa e exploração de tecnologias de inteligência artificial generativa, incluindo Amazon Bedrock, Foundation Models, RAG, Knowledge Bases, Agents e SageMaker.
 
 * **Apple Brasil | Especialista em Suporte Técnico e Relacionamento** *(Janeiro 2015 a Outubro 2022)*:
-  * 8 anos de atuação corporativa prestando suporte especializado para iPhone, Mac, iPad e Apple Watch.
-  * Diagnóstico e resolução complexa de problemas de hardware, software e configuração, lidando com ecossistemas macOS, iOS, iPadOS, Windows e Linux.
-  * Atendimento consultivo focado na experiência do cliente, traduzindo conceitos técnicos para diferentes perfis de usuários.
+  * 8 anos de atuação corporativa prestando suporte especializado de nível avançado no ecossistema Apple (iPhone, Mac, iPad e Apple Watch).
+  * **Diagnóstico e reparo avançado de hardware em nível de componente (placas lógicas e subsistemas),** atuando na solução de falhas complexas de microeletrônica e montagem de alta precisão.
+  * Solução integral de problemas de hardware e software, combinando diagnóstico profundo de circuitos e arquitetura de hardware com ecossistemas macOS, iOS e iPadOS.
+  * Atendimento consultivo focado na experiência do cliente, traduzindo conceitos técnicos complexos e diagnósticos de hardware para diferentes perfis de usuários.
 
 ---
 
@@ -34,7 +35,7 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
 
 ---
 
-### 📚 Formação Acadêmica & Certificações
+### 📚 Formação Acadêmica & Certifications
 
 * **Formação Acadêmica:**
   * Tecnologia em Gestão da Tecnologia da Informação: Centro Universitário Senac *(Em andamento, conclusão prevista para Dezembro de 2026)*.
