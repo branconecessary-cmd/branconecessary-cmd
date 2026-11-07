@@ -21,7 +21,7 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
   * Apoio ao levantamento de necessidades, organização de informações técnicas e demandas de clientes.
   * Pesquisa e exploração de tecnologias de inteligência artificial generativa, incluindo Amazon Bedrock, Foundation Models, RAG, Knowledge Bases, Agents e SageMaker.
 
-* **Apple Brasil | Especialista em Suporte Técnico e Relacionamento** *(Janeiro 2015 a Octubro 2022)*:
+* **Apple Brasil | Especialista em Suporte Técnico e Relacionamento** *(Janeiro 2015 a Outubro 2022)*:
   * 8 anos de atuação corporativa prestando suporte especializado de nível avançado no ecossistema Apple (iPhone, Mac, iPad e Apple Watch).
   * **Diagnóstico e reparo avançado de hardware em nível de componente (placas lógicas e subsistemas),** atuando na solução de falhas complexas de microeletrônica e montagem de alta precisão.
   * Solução integral de problemas de hardware e software, combinando diagnóstico profundo de circuitos e arquitetura de hardware com ecossistemas macOS, iOS e iPadOS.
@@ -73,6 +73,18 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
 * **Cloud & Infraestrutura:** Amazon Web Services (AWS), Amazon Bedrock, RAG, Knowledge Bases, Agents, SageMaker, infraestrutura de redes e telecom.
 * **Sistemas & Ferramentas:** macOS, Windows, Linux (Ubuntu/Lubuntu), Visual Studio Code, Git/GitHub e ambientes CLI.
 * **Inteligência Artificial:** IA Generativa, ChatGPT, Role Prompting, automações e arquitetura orientada a LLMs.
+
+---
+
+### 📄 Currículo Profissional
+
+Quer conhecer mais detalhes da minha trajetória de mais de 10 anos em tecnologia e suporte avançado? 
+
+<p align="left">
+  <a href="./curriculo-patrick-branco.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Baixar_Currículo_Completo_(PDF)-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 ---
 
