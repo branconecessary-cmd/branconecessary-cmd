@@ -72,5 +72,6 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
 ### 📬 Contatos & Redes
 * ✉️ **Email:** branconecessary@gmail.com
 * 💼 **LinkedIn:** [patrick-branco-campos-56a0a297](https://www.linkedin.com/in/patrick-branco-campos-56a0a297)
+* 🧵 **Threads:** [Perfil Threads](https://www.threads.net) *(adicione aqui o link do seu perfil)*
 * 🎵 **TikTok:** [@patrickbranco5](https://www.tiktok.com/@patrickbranco5)
 * 👥 **Facebook:** [Perfil Facebook](https://www.facebook.com/share/19i1TGRAbj/?mibextid=wwXIfr)
