@@ -21,7 +21,7 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
   * Apoio ao levantamento de necessidades, organização de informações técnicas e demandas de clientes.
   * Pesquisa e exploração de tecnologias de inteligência artificial generativa, incluindo Amazon Bedrock, Foundation Models, RAG, Knowledge Bases, Agents e SageMaker.
 
-* **Apple Brasil | Especialista em Suporte Técnico e Relacionamento** *(Janeiro 2015 a Outubro 2022)*:
+* **Apple Brasil | Especialista em Suporte Técnico e Relacionamento** *(Janeiro 2015 a Octubro 2022)*:
   * 8 anos de atuação corporativa prestando suporte especializado de nível avançado no ecossistema Apple (iPhone, Mac, iPad e Apple Watch).
   * **Diagnóstico e reparo avançado de hardware em nível de componente (placas lógicas e subsistemas),** atuando na solução de falhas complexas de microeletrônica e montagem de alta precisão.
   * Solução integral de problemas de hardware e software, combinando diagnóstico profundo de circuitos e arquitetura de hardware com ecossistemas macOS, iOS e iPadOS.
@@ -35,7 +35,7 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
 
 ---
 
-### 📚 Formação Acadêmica & Certifications
+### 📚 Formação Acadêmica & Certificações
 
 * **Formação Acadêmica:**
   * Tecnologia em Gestão da Tecnologia da Informação: Centro Universitário Senac *(Em andamento, conclusão prevista para Dezembro de 2026)*.
@@ -81,6 +81,7 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
 <p align="left">
   <a href="mailto:branconecessary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/patrick-branco-campos-56a0a297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/programador_de_poemas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.threads.net/@patrickbrancoo"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@patrickbranco5"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://www.facebook.com/share/19i1TGRAbj/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
