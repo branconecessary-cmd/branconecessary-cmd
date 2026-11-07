@@ -1,12 +1,20 @@
 <div align="center">
-  <img src="./marca aprovada_2.jpeg" alt="A Invasão do Poeta - Programador de Poemas" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+  <img src="./marca aprovada_2.jpeg" alt="Patrick Branco Campos - IT Professional" width="100%" style="max-width: 800px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
 </div>
 
 <br>
 
 # Olá, sou o Patrick Branco ☕🚀
 
-Profissional de Tecnologia da Informação com sólida experiência em ambientes corporativos, suporte técnico especializado, infraestrutura, Cloud Computing e participação em projetos de tecnologia. Acredito que a tecnologia ganha sentido quando une rigor técnico, governança e sensibilidade humana.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Analista+de+TI+e+Sistemas+%7C+Cloud+Computing;Suporte+Técnico+Especializado+%7C+Infraestrutura;Automação+e+Governança+em+IA" alt="Typing Effect" />
+</p>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+Profissional de Tecnologia da Informação com sólida experiência em ambientes corporativos, suporte técnico especializado, infraestrutura, Cloud Computing e participação em projetos de tecnologia. Acredito que a tecnologia ganha sentido quando une rigor técnico, governança e eficiência operacional.
 
 🎯 **Atualmente disponível para novas oportunidades profissionais como Analista de TI / Sistemas Júnior ou Assistente de Projetos de TI.**
 
@@ -39,6 +47,9 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
   * Certificação acadêmica em Analista de Sistemas: Senac *(Setembro de 2026)*
 
 * **Trilha ChatGPT Expert | OpenAI / PartnerU:**
+  <div align="center" style="margin: 20px 0;">
+    <img src="./open_exper.jpeg" alt="ChatGPT Expert - Core Knowledge" width="180px" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
+  </div>
   * ChatGPT Expert - Core Knowledge
   * ChatGPT Solutions Practitioner
   * API Deployment Practitioner
@@ -54,24 +65,31 @@ Profissional de Tecnologia da Informação com sólida experiência em ambientes
 
 ---
 
-### 🛠️ Competências & Competências Técnicas
+### 🛠️ Competências & Tecnologias
 
-* **Gestão & Projetos:** Levantamento e organização de demandas, documentação técnica, apoio a projetos de TI e visão consultiva de relacionamento
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
+
+* **Gestão & Projetos:** Levantamento e organização de demandas, documentação técnica, apoio a projetos de TI e visão consultiva de relacionamento.
 * **Cloud & Infraestrutura:** Amazon Web Services (AWS), Amazon Bedrock, RAG, Knowledge Bases, Agents, SageMaker, infraestrutura de redes e telecom.
 * **Sistemas & Ferramentas:** macOS, Windows, Linux (Ubuntu/Lubuntu), Visual Studio Code, Git/GitHub e ambientes CLI.
-* **Inteligência Artificial:** IA Generativa, ChatGPT, Role Prompting, automações e arquitetura orientada a LLMs
-
----
-
-### 🔬 Laboratórios e Pesquisa Aplicada
-
-* **Programador de Poemas:** Repositório autoral de pesquisa e desenvolvimento prático. Um laboratório vivo onde aplico engenharia de prompt, arquitetura de governança em IA, modelos de segurança Zero-Trust e testes de acessibilidade cognitiva sob rigorosa supervisão humana direta.
+* **Inteligência Artificial:** IA Generativa, ChatGPT, Role Prompting, automações e arquitetura orientada a LLMs.
 
 ---
 
 ### 📬 Contatos & Redes
-* ✉️ **Email:** branconecessary@gmail.com
-* 💼 **LinkedIn:** [patrick-branco-campos-56a0a297](https://www.linkedin.com/in/patrick-branco-campos-56a0a297)
-* 🧵 **Threads:** [Perfil Threads](https://www.threads.net) *(adicione aqui o link do seu perfil)*
-* 🎵 **TikTok:** [@patrickbranco5](https://www.tiktok.com/@patrickbranco5)
-* 👥 **Facebook:** [Perfil Facebook](https://www.facebook.com/share/19i1TGRAbj/?mibextid=wwXIfr)
+
+<p align="left">
+  <a href="mailto:branconecessary@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/patrick-branco-campos-56a0a297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.threads.net/@patrickbrancoo"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@patrickbranco5"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/19i1TGRAbj/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
